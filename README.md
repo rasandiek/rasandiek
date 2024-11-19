@@ -59,9 +59,5 @@ As an avid problem solver, I thrive on addressing complex issues by blending ana
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasandiek&theme=green" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rasandiek&theme=react-dark&bg_color=0D1117&color=1E90FF&line=87CEEB&point=4682B4" alt="GitHub Contribution Graph" width="800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasandiek&theme=react&background=0D1117&hide_border=true" alt="GitHub Streak Stats" />
 </p>
